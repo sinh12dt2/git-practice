@@ -1,0 +1,19 @@
+{
+  "name": "git-practice",
+  "version": "1.0.0",
+  "description": "Practice git comments. abc\r Practice git comments. 12abc\r Practice git comments. abc\r Practice git comments. abc\r Practice git comments. abc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sinh12dt2/git-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sinh12dt2/git-practice/issues"
+  },
+  "homepage": "https://github.com/sinh12dt2/git-practice#readme"
+}
